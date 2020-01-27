@@ -1,11 +1,7 @@
-# codeswag-writers-guide
+# codeswag.co.uk Writers Guide
 A writers guide for submiting articles to codeswag.co.uk
 
-Congratulations for being accepted as an author for codeswag.co.uk articles and tutorials! This writers guide is aimed at familiarizing you with our expectations as well as giving you tips to avoid common mistakes so that the editing process for your articles is much smoother
-
-## Recommended reading
-
-You are encouraged to familiarize yourself with the following resources:
+Congratulations for being accepted as an author for codeswag.co.uk articles and tutorials! This writers guide is aimed at familiarizing you with our expectations as well as giving you tips to avoid common mistakes so that the editing process for your articles is much smoother. Please take note of the following when writing your articles.
 
 ### Article originality & copyright
 
@@ -28,7 +24,7 @@ Most tutorials, and some articles, published on codeswag will be enhanced with a
 You are highly encouraged to use screenshots, images and other illustrations in your articles. In doing so, take note of the following;
 
 - **Resolution** - You are encouraged to take screenshots at the maximum resolution that your computer supports
-- **Console screenshots** - When taking screenshots of the console or commandline, please ensure that the font size is big enough so that readers with visual impairment can see clearly. We recommend a minimum of 24pt font size.
+- **Console screenshots** - When taking screenshots of the console or commandline, please ensure that the font size is big enough so that readers with visual impairment can see clearly. We recommend a minimum of 24pt font size. Screenshots taken in a webrowser or other applications should be zoomed in to 150%.
 - **Image Copyright** - At codeswag.co.uk we take the issue of copyright **very seriously**. As such, you are required to only use images/screenshots that you have personally take on your computer or images that have been labeled for reuse. In order to find images with copyright labeled for reuse, you can use the Google Image Search tool and filter for 'images labeled for reuse' by clicking on *__"Tools > Labeled for reuse"__* as pictured below:
 ![Filtering Google Image Search results by copyright license](https://codeswag.co.uk/wp-content/uploads/2020/01/image-reuse.png).
 
